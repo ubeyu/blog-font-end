@@ -6,3 +6,7 @@ Directory structure updated.
 
 2020/8/20 
 Error handling page added.
+
+2020/8/21 
+Error handling page improved.
+Fragment (Thymeleaf) added , which is used to create a unified template.

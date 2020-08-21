@@ -36,6 +36,10 @@ body{
     padding-top: 6em !important;
     padding-bottom: 6em !important;
 }
+.m-padded-tb-message-massive{
+    padding-top: 13em !important;
+    padding-bottom: 14em !important;
+}
 .m-padded-lr-small{
     padding-left: 4em !important;
     padding-right: 4em !important;
@@ -57,11 +61,15 @@ body{
 .m-margin-b-tiny{
     margin-bottom: 0.5em !important;
 }
+.m-margin-tb-large{
+    margin-top: 3em !important;
+    margin-bottom: 3em !important;
+}
 
 /*---------text----------*/
     /*----介绍页内容文本格式--*/
 .m-text-article{
-    font-weight: 350 !important;
+    font-weight: 400 !important;
     letter-spacing:0.8px !important;
     line-height: 1.8;
 }
@@ -115,8 +123,16 @@ body{
     max-width:75em !important;
     margin:auto !important;
 }
+.m-container-login{
+    max-width:30em !important;
+    margin:auto !important;
+}
 .m-container-blog{
     max-width:80em !important;
+    margin:auto !important;
+}
+.m-container-message{
+    max-width:50em !important;
     margin:auto !important;
 }
 /*-------shadow---------*/
